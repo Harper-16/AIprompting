@@ -1,0 +1,6 @@
+openai>=1.0.0,<4
+h11>=0.16
+huggingface_hub
+Pillow>=10
+requests>=2.31
+streamlit>=1.35
